@@ -1,0 +1,27 @@
+Day-1
+-------
+1. Voting System
+
+Create a simple Vote Component which increments count of vote for each language defined in the state of this component on every click. 
+
+2. In this assignment ToggleBox component have a Show/Hide button which will Show or Hide the content of child component Vehicles.
+You just need to replace the placeholder content of App.js and create two new files ToggleBox.js and Vehicles.js and update the contents 
+---------------------------------------------------
+Day-2
+----------
+Q. 1
+--Modify the login component to create a Login form with uname,password and a submit button
+--Apply css and styling on created comp.
+--Define props for the emp component like empid, name, deptname , gender
+   --prop type checking
+	--name string type
+	--deptname def should be HR,SALES,PROD 
+	--empid req to be a number
+	--gender to be M or F
+--Define the props for Login as uname and pass
+
+
+Q.2create a React comp to perform validation on age 
+    --age must be a number
+    --age less than 60 
+ Hint : explore using typeof props[propName]
